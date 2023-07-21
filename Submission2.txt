@@ -1,0 +1,17 @@
+Link to unlisted YouTube video:
+https://youtu.be/vNObf8P7Bnw
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1HgBr7rUZivcgIMDCmRQyowhYKsCm1N895UqK-DNzqh8/edit?usp=sharing
+
+Paper title:
+Applications of federated learning in smart cities: recent advances, taxonomy, and open challenges
+
+Link to the paper:
+https://arxiv.org/pdf/2102.01375.pdf
+
+Group Number:
+09
+
+Individual Submitter:
+20101480 Mohammad Nazmus Saquib
