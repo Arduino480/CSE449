@@ -1,14 +1,14 @@
 Link to unlisted YouTube video:
-https://youtu.be/vNObf8P7Bnw
+https://youtu.be/Tw5aqJKvpJE
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1HgBr7rUZivcgIMDCmRQyowhYKsCm1N895UqK-DNzqh8/edit?usp=sharing
 
 Paper title:
-Applications of federated learning in smart cities: recent advances, taxonomy, and open challenges
+Urban Traffic Forecasting using Federated and Continual Learning
 
 Link to the paper:
-https://arxiv.org/pdf/2102.01375.pdf
+http://dx.doi.org/10.1109/CIoT57267.2023.10084875
 
 Group Number:
 09
